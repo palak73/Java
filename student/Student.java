@@ -45,5 +45,9 @@ public class Student{
     public void payFee(){
         System.out.println("The student"+Name +"has paid the tution fee" );
     }
-   
+public void search(int RollNo ){
+    
+}
+
+
 }
